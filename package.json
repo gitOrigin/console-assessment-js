@@ -1,8 +1,8 @@
 {
-  "name": "vconsole",
-  "version": "3.12.0-rc",
+  "name": "console-assessment-js",
+  "version": "1.0.0",
   "description": "A lightweight, extendable front-end developer tool for mobile web page.",
-  "homepage": "https://github.com/Tencent/vConsole",
+  "homepage": "https://github.com/AntArcticAnt/console-assessment-js",
   "files": [
     "dist/*",
     "CHANGELOG*",
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tencent/vConsole.git"
+    "url": "git+https://github.com/AntArcticAnt/console-assessment-js.git"
   },
   "dependencies": {
     "cookie-storage": "^6.1.0",
